@@ -1,0 +1,1 @@
+insert into user_profile(user_id, name) values('43212', 'karl');
